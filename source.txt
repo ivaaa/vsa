@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+void funkcia1(){
+	printf("Hello World!!!");
+}
+
+void main(void){
+	funkcia1();
+}
