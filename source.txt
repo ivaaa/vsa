@@ -4,8 +4,11 @@ void funkcia1(){
 	printf("Hello World!!!");
 }
 
+void funkcia2(){
+	printf("Blabla.");
+}
+
 void main(void){
 	funkcia1();
 	funkcia2();
-	funkcia3();
 }
