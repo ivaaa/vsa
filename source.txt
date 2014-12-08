@@ -8,7 +8,12 @@ void funkcia2(){
 	printf("Good evening!!!");
 }
 
+void funkcia3(){
+	printf("Blabla.");
+}
+
 void main(void){
 	funkcia1();
 	funkcia2();
+	funkcia3();
 }
